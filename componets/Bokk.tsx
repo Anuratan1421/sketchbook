@@ -471,15 +471,6 @@ export default function Book() {
         />
 
         <Image
-          src="/ref/girl1.jpg"
-          alt="Disk"
-          fill
-          priority
-          draggable={false}
-          className="object-contain scale-68  rotate-0 z-50 translate-x-18 -translate-y-28 "
-        />
-
-        <Image
           src="/frames/frame5.png"
           alt="Disk"
           fill
